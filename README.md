@@ -1,4 +1,4 @@
-# Overview
+## Overview
 
 A simple JavaScript doodle, using [p5js](https://p5js.org/), of alternating rotating squares. The aim is to show a basic implementation of the sort of infinitely repeating effects of [Dave Whyte](https://beesandbombs.com/), who is a doyen of this catagory of digital art.
 
